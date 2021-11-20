@@ -1,0 +1,28 @@
+/*Selecto de id debe ser unico en el html*/
+#verde {
+    color: green;
+}
+/*Selecto de clase*/
+.color-azul {
+    color: blue;
+}
+/*Selecto de tag*/
+#leftSideCard {
+    background-color: #1A1939;
+    color: white;
+    width: 50%;
+}
+#rightSideCard {
+    color: white;
+    width: 50%;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+}
+
+#rightImage {
+    width: 100%;
+    height: 100%;
+}
